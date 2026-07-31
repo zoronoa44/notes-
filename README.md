@@ -1,2 +1,2 @@
 # notes-
-this is a private notes folder for personal use
+this is a notes folder 
